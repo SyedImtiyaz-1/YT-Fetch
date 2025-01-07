@@ -1,4 +1,4 @@
-# DownloadHub
+# DownloadHub 
 
 <p>DownloadHub is a powerful and easy-to-use application that allows users to download YouTube videos in both MP4 and MP3 formats. With a sleek interface and robust functionality, DownloadHub makes it simple to save your favorite videos and audio for offline access.</p>
 
@@ -34,3 +34,7 @@ frontend/
 
 This structure organizes the code by feature and responsibility, making it easy to locate and maintain different parts of the application. The `platforms` directory contains components specific to each supported social media platform, while the `components` directory houses reusable UI elements used throughout the application.
 
+### Technologies
+- React
+- Flask
+- Main Library : PyTube
